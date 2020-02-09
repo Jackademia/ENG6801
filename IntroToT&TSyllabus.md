@@ -121,7 +121,7 @@ Based on the feedback from the peer review, submit a final revised journal artic
 ## Schedule
 **Class Schedule** 
 
-**Week One: August 24	Academic Activity Verification**
+**Week One: August 24	Academic Activity Verification (Due 8/28 by 11:59 P.M.)**
 <br/>Readings: Bolter Chapter 1-3; Gold & Klein Chapter 1-5; Sweeney
 
 **Week Two: August 31**
