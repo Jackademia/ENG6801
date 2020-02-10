@@ -13,7 +13,7 @@ Contact: mel.stanfill@ucf.edu or via Webcourses; phone 407-823-1711
 This course provides an introduction to the PhD in Texts and Technology. Emphasis on interdisciplinarity, understanding academic fields and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. PR: Graduate standing or C.I.
 #### Course Objectives
 In this course, students will:
-1) Explore the five tracks (digital humanities, digital media, public history, rhetoric and composition, scientific and technical communication) of Texts & Technology through analysis and discussion of core texts.
+1) Explore the six tracks (digital humanities, digital media, EPIC, public history, rhetoric and composition, scientific and technical communication) of Texts & Technology through analysis and discussion of core texts.
 2) Learn about the numerous interdisciplinary fields that inform and influence the field of texts and technology.
 3) Become familiar with some core concepts that will recur throughout the Texts & Technology program, and which form the theoretical basis and backbone of the program.
 4) Be introduced to some of the basic concerns, concepts, and methods in the emerging interdisciplinary scholarship of texts and technology.
